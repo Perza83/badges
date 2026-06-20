@@ -1,0 +1,2726 @@
+[
+  {
+    "id": "collection-5220312f-draft",
+    "title": "Genres",
+    "folders": [
+      {
+        "id": "folder-81ddda13",
+        "title": "Action",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "28",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/action.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-fdc40752",
+        "title": "Adventure",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "12",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/adventure-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-486d771f",
+        "title": "Animation",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "16",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/animation-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-50cd72ec",
+        "title": "Comedy",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "35",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/comedy-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-b105ec22",
+        "title": "Crime",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "80",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-01-01",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/crime-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-3786fb4b",
+        "title": "Drama",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "18",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/drama-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-92f785d0",
+        "title": "Family",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10751",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/family-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-2a9f9fbc",
+        "title": "Fantasy",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "14",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/fantasy-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-1d0de584",
+        "title": "Horror",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "27",
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/horror-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-4226d97c",
+        "title": "Music",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10402",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/music-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-a03955e6",
+        "title": "Mystery",
+        "sources": [
+          {
+            "title": "📅 2020s Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "9648",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/mystery-wide.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-9dd1a23d",
+        "title": "Romance",
+        "sources": [
+          {
+            "title": "📅 2020s Movies",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10749",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/romance-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-354eff3b",
+        "title": "Sci-Fi",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "878",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/sci-fi-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-f0e625b7",
+        "title": "Thriller",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "53",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/thriller-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-f6f192e3",
+        "title": "War",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "10752",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/war-stories-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      },
+      {
+        "id": "folder-6c0b39a4",
+        "title": "Western",
+        "sources": [
+          {
+            "title": "📅 2020s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "2020-01-01",
+              "releaseDateLte": "2029-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2010s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "2010-01-01",
+              "releaseDateLte": "2019-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 2000s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "2000-01-01",
+              "releaseDateLte": "2009-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1990s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "1990-01-01",
+              "releaseDateLte": "1999-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1980s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "1980-01-01",
+              "releaseDateLte": "1989-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1970s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1960s",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          },
+          {
+            "title": "📅 1950s & Before",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 100,
+              "releaseDateGte": "1920-01-01",
+              "releaseDateLte": "1959-12-31",
+              "voteAverageGte": 5,
+              "voteAverageLte": 9,
+              "withOriginCountry": "US",
+              "withOriginalLanguage": "en"
+            },
+            "provider": "tmdb",
+            "mediaType": "MOVIE",
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/westerns-wide.webp",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/genres2.webp",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "01c9338a-fcab-444c-bf65-0695a796660f-draft",
+    "title": "‎Streaming Services",
+    "folders": [
+      {
+        "id": "970d5b2f-ffb4-430f-bf07-b2385bc5c720",
+        "title": "Netflix",
+        "sources": [
+          {
+            "title": "Popular",
+            "sortBy": "popularity.desc",
+            "tmdbId": 213,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Netflix-Logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/netflix.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Netflix-backdrop.jpg"
+      },
+      {
+        "id": "84707fe6-a7a1-4fa6-b45f-c33fbffb5af7",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "title": "Popular",
+            "sortBy": "popularity.desc",
+            "tmdbId": 1024,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/prime-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/prime.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Prime-backdrop.jpg"
+      },
+      {
+        "id": "2558ca1d-d375-4ead-801d-1c4137b65dc0",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "title": "Popular",
+            "sortBy": "popularity.desc",
+            "tmdbId": 4330,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Paramount-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/paramount.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Paramount-backdrop.jpg"
+      },
+      {
+        "id": "4c917ef0-b03f-485b-9565-71dc70293b47",
+        "title": "Disney+",
+        "sources": [
+          {
+            "title": "Popular",
+            "sortBy": "popularity.desc",
+            "tmdbId": 2739,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Disney-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/disney.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Disney-backdrop.jpg"
+      },
+      {
+        "id": "c3f60fe9-b4d9-43ac-bd66-28f3465eb367",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "title": "Popular",
+            "sortBy": "popularity.desc",
+            "tmdbId": 2552,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/apple-tv-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Apple-TV.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/Apple-TV-backdrop.jpg"
+      },
+      {
+        "id": "7f2f4ac8-77cc-449a-b3a0-8a3745321f6a",
+        "title": "HBO",
+        "sources": [
+          {
+            "title": "Popular",
+            "sortBy": "popularity.desc",
+            "tmdbId": 49,
+            "filters": {},
+            "provider": "tmdb",
+            "mediaType": "TV",
+            "tmdbSourceType": "NETWORK"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/HBO-Max-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/hbo.png",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Perza83/badges/refs/heads/main/HBOMax-backdrop.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  }
+]
